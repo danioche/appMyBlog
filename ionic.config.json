@@ -1,0 +1,8 @@
+{
+  "name": "daniocheBlog",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "f090f9bd"
+}
