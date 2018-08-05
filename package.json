@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "appMyBlog",
+=======
+  "name": "daniocheBlog",
+>>>>>>> f6a614af96264980e86ff62067f4ea917ed3e981
   "version": "0.0.1",
   "author": "Ionic Framework",
   "homepage": "http://ionicframework.com/",
