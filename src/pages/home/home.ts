@@ -37,5 +37,5 @@ export class HomePage {
     this.iab.create(url, '_blank');
     // window.open(url, '_blank');
   }
-
+  
 }
